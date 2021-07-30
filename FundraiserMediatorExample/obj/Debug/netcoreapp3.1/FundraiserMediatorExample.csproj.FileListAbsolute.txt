@@ -1,0 +1,12 @@
+C:\Users\Hannah\source\repos\FundraiserMediatorExample\FundraiserMediatorExample\bin\Debug\netcoreapp3.1\FundraiserMediatorExample.exe
+C:\Users\Hannah\source\repos\FundraiserMediatorExample\FundraiserMediatorExample\bin\Debug\netcoreapp3.1\FundraiserMediatorExample.deps.json
+C:\Users\Hannah\source\repos\FundraiserMediatorExample\FundraiserMediatorExample\bin\Debug\netcoreapp3.1\FundraiserMediatorExample.runtimeconfig.json
+C:\Users\Hannah\source\repos\FundraiserMediatorExample\FundraiserMediatorExample\bin\Debug\netcoreapp3.1\FundraiserMediatorExample.runtimeconfig.dev.json
+C:\Users\Hannah\source\repos\FundraiserMediatorExample\FundraiserMediatorExample\bin\Debug\netcoreapp3.1\FundraiserMediatorExample.dll
+C:\Users\Hannah\source\repos\FundraiserMediatorExample\FundraiserMediatorExample\bin\Debug\netcoreapp3.1\FundraiserMediatorExample.pdb
+C:\Users\Hannah\source\repos\FundraiserMediatorExample\FundraiserMediatorExample\obj\Debug\netcoreapp3.1\FundraiserMediatorExample.AssemblyInfoInputs.cache
+C:\Users\Hannah\source\repos\FundraiserMediatorExample\FundraiserMediatorExample\obj\Debug\netcoreapp3.1\FundraiserMediatorExample.AssemblyInfo.cs
+C:\Users\Hannah\source\repos\FundraiserMediatorExample\FundraiserMediatorExample\obj\Debug\netcoreapp3.1\FundraiserMediatorExample.csproj.CoreCompileInputs.cache
+C:\Users\Hannah\source\repos\FundraiserMediatorExample\FundraiserMediatorExample\obj\Debug\netcoreapp3.1\FundraiserMediatorExample.dll
+C:\Users\Hannah\source\repos\FundraiserMediatorExample\FundraiserMediatorExample\obj\Debug\netcoreapp3.1\FundraiserMediatorExample.pdb
+C:\Users\Hannah\source\repos\FundraiserMediatorExample\FundraiserMediatorExample\obj\Debug\netcoreapp3.1\FundraiserMediatorExample.genruntimeconfig.cache
